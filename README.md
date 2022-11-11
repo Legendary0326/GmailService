@@ -1,7 +1,6 @@
 # Django Email Service App
 
-![alt text](https://github.com/VinodKW/Django_Email_Service/blob/master/image.png?raw=true)
-
+**This Service is written with Python 3.6.0**
 **This Service is written with Django 2.0.7.**
 
 ## Email Services Used
@@ -65,9 +64,4 @@ except SMTPException as e:
                 connection=connection).send(fail_silently=True)
 
 ```
-## Wanna Contribute? 
-
-Master [git repository](https://github.com/VinodKW/Django_Email_Service.git):
-
-* `git clone https://github.com/VinodKW/Django_Email_Service.git`
 
