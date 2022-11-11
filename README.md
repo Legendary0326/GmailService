@@ -1,7 +1,6 @@
 # Django Email Service App
 
-**This Service is written with Python 3.6.0**
-**This Service is written with Django 2.0.7.**
+**This Service is written with Python 3.6.0 and Django 2.0.7.**
 
 ## Email Services Used
 * Gmail ( Please ensure that, the gmail account is in less secure mode)
