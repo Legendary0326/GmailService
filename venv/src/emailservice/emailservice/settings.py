@@ -123,8 +123,8 @@ EMAIL_HOST_USER = "<SENDGRID USER>"
 EMAIL_HOST_PASSWORD = "<SENDGRIP PASSWORD>"
 
 EMAIL_HOST_GMAIL = "smtp.gmail.com"
-EMAIL_HOST_USER_GMAIL = "donaldwerner0326@gmail.com"
-EMAIL_HOST_PASSWORD_GMAIL = "werner1234!@#4"
+EMAIL_HOST_USER_GMAIL = "hello@theposturelab.sg"
+EMAIL_HOST_PASSWORD_GMAIL = "xiqmttztbwqcozen"
 
 
 EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"

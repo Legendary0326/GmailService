@@ -46,7 +46,7 @@ def sendmail(request):
                 # Sending the mail with an alternative mail Service, in our case its Gmail.
                 with get_connection(
                     host=settings.EMAIL_HOST_GMAIL, 
-                    port=settings.EMAIL_PORT, 
+                    # port=settings.EMAIL_PORT, 
                     username=settings.EMAIL_HOST_USER_GMAIL, 
                     password=settings.EMAIL_HOST_PASSWORD_GMAIL, 
                     use_tls=True
